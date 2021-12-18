@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigFactorial", "BigFactorial\BigFactorial.csproj", "{6DB11A54-7075-41D6-88A3-CB5C4A420881}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BigFactorial", "BigFactorial\BigFactorial.csproj", "{6DB11A54-7075-41D6-88A3-CB5C4A420881}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Songs", "Songs\Songs.csproj", "{E302EB5A-5D3F-4670-B283-A2700D9904C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Songs", "Songs\Songs.csproj", "{E302EB5A-5D3F-4670-B283-A2700D9904C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Students", "Students\Students.csproj", "{EBB0AAB6-4550-4B1E-AA47-1CFD6B530730}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Students", "Students\Students.csproj", "{EBB0AAB6-4550-4B1E-AA47-1CFD6B530730}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Students2.0", "Students2.0\Students2.0.csproj", "{5243FAEB-6E29-42B2-BCF1-A7E605A0C990}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Students2.0", "Students2.0\Students2.0.csproj", "{5243FAEB-6E29-42B2-BCF1-A7E605A0C990}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreBoxes", "StoreBoxes\StoreBoxes.csproj", "{CA62C08C-1104-430B-BB26-B2D6D56C8A29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoreBoxes", "StoreBoxes\StoreBoxes.csproj", "{CA62C08C-1104-430B-BB26-B2D6D56C8A29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleCatalogue", "VehicleCatalogue\VehicleCatalogue.csproj", "{6986AB6C-78CD-4D3A-9637-2EF903EE2C1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehicleCatalogue", "VehicleCatalogue\VehicleCatalogue.csproj", "{6986AB6C-78CD-4D3A-9637-2EF903EE2C1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvertisementMessage", "AdvertisementMessage\AdvertisementMessage.csproj", "{FAC28980-3B2E-4F4E-869E-E4437D9370F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{6986AB6C-78CD-4D3A-9637-2EF903EE2C1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6986AB6C-78CD-4D3A-9637-2EF903EE2C1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6986AB6C-78CD-4D3A-9637-2EF903EE2C1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAC28980-3B2E-4F4E-869E-E4437D9370F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC28980-3B2E-4F4E-869E-E4437D9370F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC28980-3B2E-4F4E-869E-E4437D9370F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC28980-3B2E-4F4E-869E-E4437D9370F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
